@@ -1,0 +1,265 @@
+.page{
+  height:1132px;
+  width:803px;
+  position: relative;
+  left:300px;
+  top:50px;
+  background-color: white;
+  opacity:0.8;
+  padding-top: 50px;
+
+}
+p{
+  color: #6C2DC7;
+}
+h1{
+  font-size: 25px;
+}
+.professional{
+  position: relative;
+  right:40px;
+  top: 20px;
+}
+img{
+  border-radius: 100%;
+  height: 100px;
+  width:100px;
+  position: relative;
+  left: 100px;
+  top:30px;
+  border: 2px solid #6c2Dc7;
+}
+
+.first{
+  color: #6c2dc7;
+}
+.second{
+  color: grey;
+}
+
+.prof-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+  left:35px;
+}
+.prof-body{
+
+  position: relative;
+  left:30px;
+  bottom: 10px;
+}
+.strength{
+
+  position: relative;
+  top:20px;
+  right: 20px;
+}
+.strength-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+   left:20px;
+}
+.strengths{
+  color: grey;
+  margin-right: 5px;
+  margin-bottom: 2px;
+}
+.certificate{
+  position: relative;
+  right:100px;
+  top:20px;
+}
+.certificate-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+   left:100px;
+}
+.webd{
+  position: relative;
+  color: grey;
+bottom: 15px;
+}
+.machine{
+  position: relative;
+  left:85px;
+  bottom:30px;
+  color: grey;
+}
+.language{
+  position: relative;
+  top:20px;
+  right:10px;
+}
+.lang-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+  left:10px;
+}
+.lang-marg{
+  margin-bottom: 0px;
+}
+.achievement{
+  position: relative;
+  bottom:10px;
+  right:100px;
+}
+.achie-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+  left:100px;
+}
+.achi-title{
+  color:black;
+  margin-bottom: 0px;
+}
+.achi{
+  color: grey;
+  position: relative;
+  left:80px;
+}
+
+.edu{
+  color: #6C2DC7;
+  position: relative;
+  top:30px;
+  right: 20px;
+}
+.edu-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+   left:20px;
+}
+.course{
+  color: black;
+  margin-bottom: 0px;
+}
+.year{
+  color: grey;
+  margin-bottom: 0px;
+}
+.clg{
+  margin-bottom: 0px;
+}
+.prog-lang{
+position: relative;
+bottom:100px;
+right: 20px;
+}
+
+.prog-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+  left:13px;
+}
+.prog{
+  color:grey;
+}
+.c{
+  margin-right:5px;
+  position: relative;
+  left: 60px;
+}
+.hobbies{
+    margin-left: 100px;
+    position: relative;
+    left: 440px;
+    bottom: 60px;
+}
+.hobbies-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+   left:20px;
+}
+.gamepad{
+  font-size: 50px;
+}
+.play{
+  color: grey;
+float: left;
+margin: 0;
+border: 1px solid grey;
+border-radius: 6px;
+padding: 6px;
+position: relative;
+left:60px;
+bottom: 8px;
+margin-top: 2px;
+}
+.tech{
+position: relative;
+bottom:210px;
+right:75px;
+}
+.tech-hr{
+  border-bottom: 3px solid #6c2Dc7;
+  width:75%;
+  position: relative;
+  bottom: 10px;
+   left:65px;
+}
+.skills{
+  color: grey;
+  position: relative;
+  left:90px;
+  bottom: 8px;
+}
+.ds{
+  margin-right:5px;
+  margin-top: 2px;
+}
+
+
+
+.student{
+  position: relative;
+  right:100px;
+}
+.fav{
+  position: relative;
+  left: 60px;
+}
+.fav2{
+  position: relative;
+  right:15px;
+}
+.mail{
+  color: grey;
+  position: relative;
+  margin-right: 30px;
+  left:60px;
+  font-size: 8px;
+  font-weight: bold;
+}
+.mail2{
+  position: relative;
+
+  color: grey;
+  font-size: 8px;
+  font-weight: bold;
+    margin-right: 30px;
+    right: 15px;
+}
+li{
+  list-style: none;
+  float: left;
+  margin: 0;
+  border: 1px solid grey;
+  border-radius: 6px;
+  padding: 6px;
+}
